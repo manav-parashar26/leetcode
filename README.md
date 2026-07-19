@@ -7,6 +7,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,5 @@ DSA - question solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
