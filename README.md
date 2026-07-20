@@ -7,6 +7,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/manav-parashar26/leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 ## Dynamic Programming
@@ -18,4 +19,8 @@ DSA - question solving
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
