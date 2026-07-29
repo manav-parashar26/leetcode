@@ -10,6 +10,7 @@ DSA - question solving
 | [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/manav-parashar26/leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
+| [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -126,4 +127,16 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
