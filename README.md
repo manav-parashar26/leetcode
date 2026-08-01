@@ -14,12 +14,14 @@ DSA - question solving
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +152,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
@@ -172,4 +175,12 @@ DSA - question solving
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
