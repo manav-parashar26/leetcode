@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    TreeNode* flr(TreeNode* root) {
-        while (root->right)root = root->right;
+    TreeNode* fll(TreeNode* root) {
+        while (root->left)root = root->left;
         return root;
     }
     TreeNode* helper(TreeNode* root) {
         if(!root->left)return root->right;
         else if(!root->right)return root->left;
-        TreeNode* rc = root->right;
-        TreeNode* lr = flr(root->left);
-        lr->right = rc;
-        return root->left;
+        TreeNode* lc = root->left;
+        TreeNode* ll = fll(root->right);
+        ll->left = lc;
+        return root->right;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root)return NULL;
