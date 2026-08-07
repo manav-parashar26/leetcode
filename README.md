@@ -36,6 +36,7 @@ DSA - question solving
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -168,10 +169,12 @@ DSA - question solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ DSA - question solving
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manav-parashar26/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -198,6 +202,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
