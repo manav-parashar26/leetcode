@@ -29,6 +29,7 @@ DSA - question solving
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@ DSA - question solving
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -184,6 +186,7 @@ DSA - question solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -292,6 +295,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## DP on Trees
 |  |
 | ------- |
