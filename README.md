@@ -19,6 +19,7 @@ DSA - question solving
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manav-parashar26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manav-parashar26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manav-parashar26/leetcode/tree/master/3731-find-missing-elements) |
@@ -194,6 +195,7 @@ DSA - question solving
 | ------- |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -339,4 +341,12 @@ DSA - question solving
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manav-parashar26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
