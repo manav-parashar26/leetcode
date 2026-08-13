@@ -16,6 +16,7 @@ DSA - question solving
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
@@ -177,6 +178,7 @@ DSA - question solving
 | [0662-maximum-width-of-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
@@ -349,4 +351,8 @@ DSA - question solving
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
