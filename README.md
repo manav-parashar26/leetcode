@@ -25,6 +25,7 @@ DSA - question solving
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manav-parashar26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manav-parashar26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manav-parashar26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/manav-parashar26/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -223,6 +224,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manav-parashar26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
