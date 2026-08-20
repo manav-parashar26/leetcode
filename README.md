@@ -20,6 +20,7 @@ DSA - question solving
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
@@ -136,6 +137,7 @@ DSA - question solving
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -192,6 +194,7 @@ DSA - question solving
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
@@ -359,6 +362,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +382,7 @@ DSA - question solving
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |
