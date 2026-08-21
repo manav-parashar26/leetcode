@@ -1,22 +1,18 @@
 class Solution {
-    bool check(int start, vector<vector<int>>& graph, vector<int>& color) {
-        queue<int> q;
+    bool check(int node, int col, vector<vector<int>>& graph,
+               vector<int>& color) {
 
-        q.push(start);
-        color[start] = 0;
+        color[node] = col;
 
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
+        for (int it : graph[node]) {
 
-            for (int neighbor : graph[node]) {
-
-                if (color[neighbor] == -1) {
-                    color[neighbor] = !color[node];
-                    q.push(neighbor);
-                } else if (color[neighbor] == color[node]) {
+            if (color[it] == -1) {
+                if (!check(it, !col, graph, color)) {
                     return false;
                 }
+            }
+            else if (color[it] == col) {
+                return false;
             }
         }
 
@@ -31,7 +27,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             if (color[i] == -1) {
-                if (!check(i, graph, color)) {
+                if (!check(i, 0, graph, color)) {
                     return false;
                 }
             }
