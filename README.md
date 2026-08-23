@@ -54,6 +54,7 @@ DSA - question solving
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -221,6 +222,7 @@ DSA - question solving
 | ------- |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -253,6 +255,7 @@ DSA - question solving
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manav-parashar26/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manav-parashar26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manav-parashar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manav-parashar26/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -296,6 +299,7 @@ DSA - question solving
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manav-parashar26/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
