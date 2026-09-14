@@ -27,6 +27,7 @@ DSA - question solving
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/manav-parashar26/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manav-parashar26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manav-parashar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -165,6 +166,7 @@ DSA - question solving
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manav-parashar26/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -230,6 +232,7 @@ DSA - question solving
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manav-parashar26/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manav-parashar26/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -278,6 +281,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manav-parashar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -440,6 +444,7 @@ DSA - question solving
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -464,6 +469,7 @@ DSA - question solving
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manav-parashar26/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manav-parashar26/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Topological Sort
 |  |
@@ -508,4 +514,12 @@ DSA - question solving
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
