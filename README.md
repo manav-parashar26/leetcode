@@ -290,6 +290,7 @@ DSA - question solving
 | ------- |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
@@ -500,4 +501,8 @@ DSA - question solving
 | ------- |
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manav-parashar26/leetcode/tree/master/0127-word-ladder) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
