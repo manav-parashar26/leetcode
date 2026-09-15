@@ -64,6 +64,7 @@ DSA - question solving
 | [1510-stone-game-iv](https://github.com/manav-parashar26/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/manav-parashar26/leetcode/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manav-parashar26/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manav-parashar26/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -389,6 +390,7 @@ DSA - question solving
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/manav-parashar26/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/manav-parashar26/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -485,6 +487,7 @@ DSA - question solving
 | [0207-course-schedule](https://github.com/manav-parashar26/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manav-parashar26/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/manav-parashar26/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -531,8 +534,10 @@ DSA - question solving
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
