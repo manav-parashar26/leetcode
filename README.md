@@ -19,6 +19,7 @@ DSA - question solving
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manav-parashar26/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
@@ -175,6 +176,7 @@ DSA - question solving
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/manav-parashar26/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -246,6 +248,7 @@ DSA - question solving
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/manav-parashar26/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -312,6 +315,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manav-parashar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -392,6 +396,7 @@ DSA - question solving
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manav-parashar26/leetcode/tree/master/1510-stone-game-iv) |
@@ -485,6 +490,7 @@ DSA - question solving
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/manav-parashar26/leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manav-parashar26/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -512,6 +518,7 @@ DSA - question solving
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manav-parashar26/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
@@ -570,12 +577,14 @@ DSA - question solving
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manav-parashar26/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
