@@ -17,6 +17,7 @@ DSA - question solving
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@ DSA - question solving
 | ------- |
 | [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manav-parashar26/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manav-parashar26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -169,6 +171,7 @@ DSA - question solving
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -237,6 +240,7 @@ DSA - question solving
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -259,6 +263,7 @@ DSA - question solving
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manav-parashar26/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -280,6 +285,7 @@ DSA - question solving
 | [0127-word-ladder](https://github.com/manav-parashar26/leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/manav-parashar26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manav-parashar26/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
@@ -472,6 +478,7 @@ DSA - question solving
 | ------- |
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/manav-parashar26/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
