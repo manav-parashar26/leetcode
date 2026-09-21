@@ -12,6 +12,7 @@ DSA - question solving
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
@@ -59,6 +60,7 @@ DSA - question solving
 | [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
