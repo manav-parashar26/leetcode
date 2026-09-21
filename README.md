@@ -15,6 +15,7 @@ DSA - question solving
 | [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
@@ -61,6 +62,7 @@ DSA - question solving
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
