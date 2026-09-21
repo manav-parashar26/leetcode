@@ -55,6 +55,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -333,6 +334,7 @@ DSA - question solving
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0836-rectangle-overlap) |
@@ -616,4 +618,8 @@ DSA - question solving
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/manav-parashar26/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
