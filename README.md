@@ -10,6 +10,7 @@ DSA - question solving
 | [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/manav-parashar26/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/manav-parashar26/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
@@ -64,6 +65,7 @@ DSA - question solving
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/manav-parashar26/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/manav-parashar26/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -543,6 +545,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/manav-parashar26/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
