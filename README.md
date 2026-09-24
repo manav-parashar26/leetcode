@@ -61,6 +61,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/manav-parashar26/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -345,6 +346,7 @@ DSA - question solving
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/manav-parashar26/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
@@ -567,6 +569,7 @@ DSA - question solving
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/manav-parashar26/leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manav-parashar26/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manav-parashar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Graph Coloring
