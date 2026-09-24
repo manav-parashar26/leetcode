@@ -29,6 +29,7 @@ DSA - question solving
 | [0827-making-a-large-island](https://github.com/manav-parashar26/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
@@ -79,6 +80,7 @@ DSA - question solving
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/manav-parashar26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/manav-parashar26/leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manav-parashar26/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -554,6 +556,7 @@ DSA - question solving
 | [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manav-parashar26/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/manav-parashar26/leetcode/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/manav-parashar26/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/manav-parashar26/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manav-parashar26/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
