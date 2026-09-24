@@ -1,17 +1,21 @@
 class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
+
         int n = triangle.size();
-        vector<int> cur(n,0),front(n,0);
-        for(int j = 0 ; j <  n ; j++)front[j] =  triangle[n-1][j] ;
-        for(int i = n-2 ; i>=0 ; i--){
-            for(int j = i ; j >= 0 ; j--){
-                int d = triangle[i][j] + front[j];
-                int dg  = triangle[i][j] + front[j+1];
-                cur[j] = min(d,dg);
+
+        vector<int> dp = triangle[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+
+            for (int j = 0; j <= i; j++) {
+
+                dp[j] =
+                    triangle[i][j] +
+                    min(dp[j], dp[j + 1]);
             }
-        front = cur;
-        } 
-        return front[0];
+        }
+
+        return dp[0];
     }
 };
