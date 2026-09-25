@@ -22,6 +22,7 @@ DSA - question solving
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/manav-parashar26/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
@@ -110,6 +111,7 @@ DSA - question solving
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manav-parashar26/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manav-parashar26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -123,6 +125,7 @@ DSA - question solving
 | ------- |
 | [0056-merge-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -509,6 +512,7 @@ DSA - question solving
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/manav-parashar26/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manav-parashar26/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -691,4 +695,8 @@ DSA - question solving
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/manav-parashar26/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
