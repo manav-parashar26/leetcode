@@ -91,6 +91,7 @@ DSA - question solving
 | [0516-longest-palindromic-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/manav-parashar26/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -343,6 +344,7 @@ DSA - question solving
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/manav-parashar26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -723,5 +725,6 @@ DSA - question solving
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
