@@ -72,6 +72,7 @@ DSA - question solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/manav-parashar26/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/manav-parashar26/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/manav-parashar26/leetcode/tree/master/0063-unique-paths-ii) |
@@ -119,6 +120,7 @@ DSA - question solving
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/manav-parashar26/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/manav-parashar26/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -341,6 +343,7 @@ DSA - question solving
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/manav-parashar26/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/manav-parashar26/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
@@ -452,6 +455,7 @@ DSA - question solving
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/manav-parashar26/leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/manav-parashar26/leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manav-parashar26/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
