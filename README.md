@@ -22,6 +22,7 @@ DSA - question solving
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manav-parashar26/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
@@ -93,6 +94,7 @@ DSA - question solving
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manav-parashar26/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manav-parashar26/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
@@ -398,6 +400,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -761,4 +764,8 @@ DSA - question solving
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/manav-parashar26/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
