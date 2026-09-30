@@ -52,6 +52,7 @@ DSA - question solving
 | [1406-stone-game-iii](https://github.com/manav-parashar26/leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/manav-parashar26/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manav-parashar26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/manav-parashar26/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manav-parashar26/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -127,6 +128,7 @@ DSA - question solving
 | [1463-cherry-pickup-ii](https://github.com/manav-parashar26/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/manav-parashar26/leetcode/tree/master/1510-stone-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manav-parashar26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/manav-parashar26/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manav-parashar26/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/manav-parashar26/leetcode/tree/master/1872-stone-game-viii) |
@@ -167,6 +169,7 @@ DSA - question solving
 | [1048-longest-string-chain](https://github.com/manav-parashar26/leetcode/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manav-parashar26/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manav-parashar26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/manav-parashar26/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manav-parashar26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manav-parashar26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
