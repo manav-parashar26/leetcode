@@ -192,6 +192,7 @@ DSA - question solving
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/manav-parashar26/leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manav-parashar26/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -396,6 +397,7 @@ DSA - question solving
 | [1092-shortest-common-supersequence](https://github.com/manav-parashar26/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/manav-parashar26/leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manav-parashar26/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manav-parashar26/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -789,6 +791,7 @@ DSA - question solving
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manav-parashar26/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/manav-parashar26/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
