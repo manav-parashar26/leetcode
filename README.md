@@ -96,6 +96,7 @@ DSA - question solving
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manav-parashar26/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manav-parashar26/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/manav-parashar26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manav-parashar26/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/manav-parashar26/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
@@ -380,6 +381,7 @@ DSA - question solving
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manav-parashar26/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/manav-parashar26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -409,6 +411,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/manav-parashar26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
