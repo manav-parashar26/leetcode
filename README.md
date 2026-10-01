@@ -186,6 +186,7 @@ DSA - question solving
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/manav-parashar26/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -382,6 +383,7 @@ DSA - question solving
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/manav-parashar26/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/manav-parashar26/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/manav-parashar26/leetcode/tree/master/0115-distinct-subsequences) |
@@ -794,6 +796,7 @@ DSA - question solving
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manav-parashar26/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
