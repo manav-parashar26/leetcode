@@ -120,6 +120,7 @@ DSA - question solving
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manav-parashar26/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manav-parashar26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/manav-parashar26/leetcode/tree/master/0877-stone-game) |
@@ -158,6 +159,7 @@ DSA - question solving
 | [0135-candy](https://github.com/manav-parashar26/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/manav-parashar26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manav-parashar26/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manav-parashar26/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manav-parashar26/leetcode/tree/master/1927-sum-game) |
@@ -195,6 +197,7 @@ DSA - question solving
 | [0144-binary-tree-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/manav-parashar26/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/manav-parashar26/leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -402,6 +405,7 @@ DSA - question solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/manav-parashar26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/manav-parashar26/leetcode/tree/master/1048-longest-string-chain) |
@@ -808,6 +812,7 @@ DSA - question solving
 | [0020-valid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manav-parashar26/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
