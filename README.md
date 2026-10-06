@@ -373,6 +373,7 @@ DSA - question solving
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manav-parashar26/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manav-parashar26/leetcode/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/manav-parashar26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/manav-parashar26/leetcode/tree/master/0721-accounts-merge) |
@@ -563,6 +564,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/manav-parashar26/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/manav-parashar26/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Graph Theory
 |  |
@@ -614,6 +616,7 @@ DSA - question solving
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/manav-parashar26/leetcode/tree/master/1048-longest-string-chain) |
@@ -848,4 +851,8 @@ DSA - question solving
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/manav-parashar26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
