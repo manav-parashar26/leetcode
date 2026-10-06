@@ -22,6 +22,7 @@ DSA - question solving
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manav-parashar26/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/manav-parashar26/leetcode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manav-parashar26/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manav-parashar26/leetcode/tree/master/0312-burst-balloons) |
@@ -454,6 +455,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -466,6 +468,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manav-parashar26/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/manav-parashar26/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manav-parashar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manav-parashar26/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -619,6 +622,7 @@ DSA - question solving
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manav-parashar26/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/manav-parashar26/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/manav-parashar26/leetcode/tree/master/1048-longest-string-chain) |
@@ -857,4 +861,9 @@ DSA - question solving
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/manav-parashar26/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/manav-parashar26/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
