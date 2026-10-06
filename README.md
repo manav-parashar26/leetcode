@@ -26,6 +26,7 @@ DSA - question solving
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manav-parashar26/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manav-parashar26/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/manav-parashar26/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/manav-parashar26/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -109,6 +110,7 @@ DSA - question solving
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manav-parashar26/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manav-parashar26/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/manav-parashar26/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/manav-parashar26/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/manav-parashar26/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +268,7 @@ DSA - question solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -340,6 +343,7 @@ DSA - question solving
 | [0210-course-schedule-ii](https://github.com/manav-parashar26/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manav-parashar26/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -565,6 +569,7 @@ DSA - question solving
 | ------- |
 | [0207-course-schedule](https://github.com/manav-parashar26/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manav-parashar26/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/manav-parashar26/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/manav-parashar26/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/manav-parashar26/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -674,6 +679,7 @@ DSA - question solving
 | [0063-unique-paths-ii](https://github.com/manav-parashar26/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manav-parashar26/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/manav-parashar26/leetcode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manav-parashar26/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/manav-parashar26/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -693,12 +699,14 @@ DSA - question solving
 | ------- |
 | [0207-course-schedule](https://github.com/manav-parashar26/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manav-parashar26/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/manav-parashar26/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/manav-parashar26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manav-parashar26/leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -778,6 +786,7 @@ DSA - question solving
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manav-parashar26/leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
