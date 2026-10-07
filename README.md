@@ -343,6 +343,7 @@ DSA - question solving
 | [0207-course-schedule](https://github.com/manav-parashar26/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manav-parashar26/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/manav-parashar26/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/manav-parashar26/leetcode/tree/master/0542-01-matrix) |
@@ -413,6 +414,7 @@ DSA - question solving
 | [0208-implement-trie-prefix-tree](https://github.com/manav-parashar26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manav-parashar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/manav-parashar26/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/manav-parashar26/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/manav-parashar26/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -448,6 +450,7 @@ DSA - question solving
 | [0126-word-ladder-ii](https://github.com/manav-parashar26/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/manav-parashar26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/manav-parashar26/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/manav-parashar26/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/manav-parashar26/leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/manav-parashar26/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manav-parashar26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
